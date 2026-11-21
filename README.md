@@ -8,7 +8,7 @@ briefbook assembles a bot's system prompt from layers in one fixed order, lets y
 
 ## Get it
 
-Buy briefbook at https://dominares.org/tools/briefbook: one payment of $99, plus sales tax where it applies, and every future update. After checkout you are invited to a private GitHub repository with the source and every version published to it. The repository includes the Python package and the briefbook command, an example folder for a made-up shop, and the full test suite.
+Buy briefbook at https://dominares.org/tools/briefbook: one payment of $99, plus sales tax where it applies, and every future update. After checkout you are invited to a private GitHub repository with the source and every version published to it. The repository includes the Python package and the briefbook command, an example folder for a made-up shop, and the test suite.
 
 Requirements: Python 3.10 or newer, standard library only. tzdata is optional, for named time zones on systems without a time zone database.
 
