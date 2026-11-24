@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.0.2
+
+No change to the tool.
+
+- One test used a fixed date that has since passed, so the suite failed after 2026-11-01. It now uses a date ahead of today.
+
 ## 1.0.1
 
 Fixes from a review of 1.0.0.

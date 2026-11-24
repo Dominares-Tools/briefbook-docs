@@ -12,7 +12,7 @@ Buy briefbook at https://dominares.org/tools/briefbook: one payment of $99, plus
 
 Requirements: Python 3.10 or newer, standard library only. tzdata is optional, for named time zones on systems without a time zone database.
 
-This page documents version 1.0.1. Install commands and file paths in the documentation below run inside the private repository you are invited to; the source is not in this repository.
+This page documents version 1.0.2. Install commands and file paths in the documentation below run inside the private repository you are invited to; the source is not in this repository.
 
 ## Documentation
 
